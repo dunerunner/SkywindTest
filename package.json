@@ -6,14 +6,11 @@
     "scripts": {
         "start": "serve"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/kristapsPelna/testAssignment.git"
-    },
-    "author": "Kristaps Peļņa",
-    "license": "ISC",
-    "homepage": "https://github.com/kristapsPelna/testAssignment#readme",
+    "author": "",
+    "license": "UNLICENSED",
+    "private": "true",
     "devDependencies": {
         "serve": "5.0.4"
     }
 }
+
